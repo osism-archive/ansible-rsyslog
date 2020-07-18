@@ -1,0 +1,3 @@
+---
+ansible_role_name: rsyslog
+travis_decrypt_key: fb10f4671cc8
