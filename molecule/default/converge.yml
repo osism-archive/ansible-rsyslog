@@ -1,6 +1,0 @@
----
-- name: Playbook for role testing
-  hosts: all
-
-  roles:
-    - role: ansible-rsyslog

@@ -1,6 +1,0 @@
----
-fluentd_port: 5140
-fluentd_host: 127.0.0.1
-
-rsyslog_service_name: rsyslog
-rsyslog_package_name: rsyslog
